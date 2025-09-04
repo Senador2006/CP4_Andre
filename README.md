@@ -1,11 +1,16 @@
 # CP4_Andre
 
 ## Integrantes:
-Thiago Sobral de Alvarenga - RM: 562695 
+Thiago Sobral de Alvarenga - RM: 562695
+
 Pedro Miranda Campos Riato - RM: 562117
+
 Israel Karacsony de Camargo Nunes - RM: 563435
+
 Pedro Luis Tofoli - RM:  564441
+
 Thiago Ono Sakai - RM: 563448
+
 Diego Antonio Silva Mendes - RM: 565509
 
 ### Parte 4:
